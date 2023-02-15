@@ -81,7 +81,7 @@ cursor: grab;
 #slider{
    margin-top: 46.5px;
    padding-top: 50%;
-   background-image: url('/asset/img/slider1/slider1.jpg');
+   background-image: url('./asset/img/slider1/slider1.jpg');
    background-repeat: no-repeat;
    background-position: top center;
    background-size: cover;
